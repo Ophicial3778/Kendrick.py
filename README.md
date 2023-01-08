@@ -1,1 +1,1 @@
-# Kendrick.py
+# Kendrick
